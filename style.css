@@ -1,25 +1,40 @@
-body{
-  color:rgb(0, 0, 0);
-  background:rgb(6, 44, 214); 
-  margin:0px; 
-  font-family: "BBH Sans Bartle",sans-serif;
+body {
+    color: rgba(8, 99, 190, 0.623);
+    Background: rgb(122, 248, 12);
+    margin: 0px;
+    font-family: "BBH Sans Bartle", sans-serif;
 }
+
 
 header {
-  border-bottom: solid 5px rgb(0, 0, 0);
-  padding: 20px;
-  font-size: 32px;
-  color: rgb(219, 11, 11);
+    border-bottom: solid 2px rgb(20, 232, 229);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(249, 128, 7);
 
 }
-section {
- background: green;
- padding-bottom: 80px;
- padding-top: 80px;
- display: flex;
- justify-content:center ;
+
+.chamada{
+    background: rgb(255, 6, 255);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+
 }
 
-.chamada-texto{
-  margin-right: 5%;
+.chamada-texto {
+    margin-right: 5%;
+}
+img{
+    height: 200px;
+}
+.categoria-videos{
+      display: flex;
+   overflow-x:auto;
+   gap:10px;
+}
+.categoria{
+    padding-left: 20px;
+    padding-right: 20px;
 }
