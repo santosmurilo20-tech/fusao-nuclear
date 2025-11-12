@@ -1,13 +1,13 @@
 body {
-    color: rgb(117, 57, 57);
-    Background: rgb(107, 211, 10);
+    color: rgb(243, 234, 234);
+    Background: rgb(9, 43, 124);
     margin: 0px;
     font-family: "BBH Sans Bartle", sans-serif;
 }
 
 
 header {
-    border-bottom: solid 2px rgb(219, 98, 17);
+    border-bottom: solid 2px rgb(234, 13, 230);
     padding: 20px;
     font-size: 32px;
     color: rgb(207, 9, 9);
