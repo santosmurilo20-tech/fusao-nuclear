@@ -1,6 +1,6 @@
 body {
     color: rgb(0, 0, 0);
-    Background: rgb(228, 0, 0);
+    Background: rgb(247, 7, 7);
     margin: 0px;
     font-family: "Stack Sans Headline", sans-serif;
     margin-bottom: 100px;
@@ -8,7 +8,7 @@ body {
 
 
 header {
-    border-bottom: solid 2px rgb(234, 13, 230);
+    border-bottom: solid 2px rgb(0, 231, 123);
     padding: 20px;
     font-size: 32px;
     color: rgb(10, 94, 250);
